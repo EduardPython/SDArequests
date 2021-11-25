@@ -21,6 +21,6 @@ yoda_speak = requests.get(f"https://api.funtranslations.com/translate/yoda.json?
 print(type(yoda_speak.json()))
 
 url = "https://api.funtranslations.com/translate/yoda.json?"
-parametry = {"text" : text}
+parametry = {"text": text}
 yoda_1 = requests.get(url=url, params=parametry)
 response = yoda_1.json()
