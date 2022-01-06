@@ -12,7 +12,7 @@ for film in filmy:
     director_and_actors_list = film.find("a").get("title").split(",")
     director, *actors = director_and_actors_list
     director = director[0:-6]
-    result = (name, year, director, actors)
+    result = [name, year, director, actors]
     filmy_list.append(result)
 
 header = ["jméno", "rok vydání", "režisér", "hlavní herci"]

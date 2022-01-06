@@ -26,9 +26,15 @@ def translate(text, target_lang, source_lang=None):
 def translator():
     input_text = input("zadejte text pro prelozeni: ")
     prelozit_do = input("do jakého jazyka chcete prelozit: ")
-    return translate(input_text, prelozit_do)
+    poslat_na_mail = input("chcete poslat preklad na mail? yes/no")
+    receiver_email = input("zadejte email")
+    if poslat_na_mail == "yes":
+        send_email()
+    translated_text = translate(input_text, prelozit_do)
+    print(translated_text)
 
-print(translator())
+
+#print(translator())
 #if __name__ == "__main__":
 #    translator()
 
