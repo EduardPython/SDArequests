@@ -53,13 +53,12 @@ def format_number_of_deaths(fatalities):
 
 
 def create_headers_in_csv_file():
-    if path.isfile("crash_data.csv"):
-        return
-    else:
+    if not path.isfile("crash_data.csv"):
         with open("crash_data.csv", "w") as file:
             writer = csv.writer(file)
             writer.writerow(["date", "location", "aircraft_brand", "no_deaths"])
-
+        return "File Created!"
+    return "File exists"
 
 def write_data_to_csv(crash_data):
     with open("crash_data.csv", "a") as file:

@@ -1,0 +1,247 @@
+date,location,aircraft_brand,no_deaths
+22-01-2010,"Off Sand Point, AlaskaAlaska Central Express",Beechcraft,2
+25-01-2010,"Off Na'ameh, LebanonEthiopian Airlines",Boeing,90
+25-01-2010,"Near Senador Jose Porfírio, BrazilPiquiatuba Taxi Aereo",Embraer,2
+28-01-2010,"Cotabato City, PhilippinesMilitary - Philippine Air Force",GAF,8
+14-02-2010,"Near Saada, YemenMilitary - Yemeni Arm",Helicopter?,11
+10-04-2010,"Smolensk, RussiaMilitary - Polish Air Force",Tupolev,96
+10-04-2010,"Near Yelizovo, RussiaKamchatka Airlines",Mi-8?,10
+13-04-2010,"Monterey, MexicoAirborne Freight Company Union",Airbus,5
+21-04-2010,"Pampanga, PhilippinesInterisland Airlines",Antonov,3
+12-05-2010,"Tripoli, LibyaAfriqiyah Airways",Airbus,103
+15-05-2010,"Near Poeketi, SurinameBlue Wings Airlines",Antonv,8
+17-05-2010,"Salang pass, AfghanistanPamir Airlines",Antonv,44
+22-05-2010,"Mangalore, IndiaAir India Express",Boeing,159
+19-06-2010,"Yangadou, CameroonAero Service",CASA,11
+23-06-2010,"Quebec, CanadaAéropro",Beechcraft,7
+05-07-2010,"Tuzla, RomaniaMilitary - Romainian Air Force",Antonov,12
+28-07-2010,"Islamabad, PakistanAirblue",Airbus,152
+28-07-2010,"Near Elmendorf AFB, AlaskaMilitary - US Air Force",McDonnell,4
+01-08-2010,"Near Denali National Park, AlaskaAll West Freight",Fairchild,3
+03-08-2010,"Igarka, RussiaKatekavia Airline",,12
+09-08-2010,"Near Dillingham, AlaskaGCI Communications Corp.",de,5
+16-08-2010,"San Andreas Island, ColombiaAIRES Colombia",Boeing,2
+21-08-2010,"Off Kaminshak Bay, AlaskaBranch River Air Service",de,4
+24-08-2010,"Bastipur, NepalAgni Air",Dornier,14
+24-08-2010,"Yichun, ChinaHenan Airlines",Embraer,44
+25-08-2010,"Bandundu, Congo Democratic RepublicFilair",Let,19
+27-08-2010,"Buena Vista, VenezuelaMilitary - Venezuelan National Guard",Mi,10
+03-09-2010,"Dubai, United Arab EmiratesUnited Parcel Service- UPS",Boeing,2
+04-09-2010,Fox Glacier AirstripSky Dive New Zealand,Fletcher,9
+13-09-2010,"Puerto Ordaz, VenezuelaConviasa Airline",ATR,17
+21-09-2010,"Chopan district, Zabul Province, AfghanistanInternational Security Assistance Force",Sikorsky,10
+06-10-2010,"Rasht Valley, Tajikistan	Military - Tajik National Guard",Mi-8?,28
+12-10-2010,"Near Kabul, AfghanistanNational Air Cargo",Lockheed,8
+21-10-2010,"Near Bugulumisa, CongoTracep",Let,2
+04-11-2010,"Near Guasimal, CubaAerocaribbean",ATR-72-212CU-T1549,68
+05-11-2010,"Near Karachi, PakistanJS Air",Beechcraft,21
+25-11-2010,"Strezhevoy, RussiaNARZ",Mil,7
+28-11-2010,"Karachi, PakistanSun Way",Ilyushin,8
+04-12-2010,"Moscow, RussiaDagestan Airlines",Tupolev,2
+15-12-2010,"Palunge Hill, NepalTara Air",de,22
+01-01-2011,"Surgut, RussiaKogalmavia",Tupolev,3
+09-01-2011,"Orumiyeh, IranIran Air",Boeing,77
+08-02-2011,"Off Plettenberg Bay, South AfricaMajuba Aviation",Pilatus,9
+10-02-2011,"Cork, IrelandManx2",Swearingen,6
+14-02-2011,"Near Santa Ana Francisco Morazan, HondurasCentral American Airways",Let,14
+21-03-2011,"Pointe-Noire, CongoTrans Air Cargo",Antonov,9
+04-04-2011,"Kinshasa, CongoUnited Nations",Canadair,32
+19-04-2011,"Tawang, India	Pawan Hans Helicopters Ltd.",	Mil,18
+21-04-2011,"Manaus, Brazil	AmazonavesAir Taxi",Embraer/Piper,7
+07-05-2011,"Off Kaimana, IndonesiaMerpati Nusantara Airlines",Xian,27
+18-05-2011,"Near Prahuaniyeu, ArgentinaSOL Lineas Aereas",Saab,22
+20-06-2011,"Petrozavodsk, RussiaRusAir Airlines",Tupolev,47
+06-07-2011,"Near Bagram Air Base, AfghanistanSilk Way Airlines",Ilyushin76TD4K-AZ55,9
+08-07-2011,"Kisangani, CongoHewa Bora Airways",Boeing,77
+11-07-2011,"Near Strezhevoy, RussiaAngara Airlines",Antonov,7
+13-07-2011,"Recife, BrazilNOAR Linhas Aéreas",Let,16
+26-07-2011,"Near Guelmim, MoroccoMilitary - Royal Moroccan Air Force",Lockheed,80
+28-07-2011,"Off Jeju, South KoreanAsiana Airlines",Boeing,2
+06-08-2011,"Tangi Valley, AfghanistanMilitary - U.S. Army",Boeing,38
+09-08-2011,"Near Omsukchan, RussiaAvis Amur",Antonov,11
+20-08-2011,"Resolute Bay, Nunavut, CanadaFirst Air",Boeing,12
+26-08-2011,"Mosby, MissouriLifeNet",Eurocopter,4
+02-09-2011,"Juan Fernandez Island, ChileChilean Air Force",CASA,21
+06-09-2011,"Near Trinidad, BoliviaAerocon",Swearingen,8
+07-09-2011,"Yaroslavl, RussiaYAK Service",Yakovlev,44
+14-09-2011,"Huambo, AngolaMilitary - FANA Forca Aerea Nacional Angolana",Embraer,30
+16-09-2011,"Reno, NevadaPrivate - Aero Trans Corp",North,1
+22-09-2011,"Yellowknife, Northwest Territories, CanadaArctic Sunwest Charters",De,2
+25-09-2011,"Near Kathmandu, NepalBuddha Air",Beechcraft,19
+29-09-2011,"Near Bohorok, IndonesiaNusantara Buana Air",CASA,18
+13-10-2011,"Near Madang, Papua New GuineaAirline PNG",de,28
+27-10-2011,"Vancouver, BC, CanadaNorthern Thunderbird Air Inc.",Beechcraft,1
+10-11-2011,"Near Kilohana, Molokai, HawaiiBlue Hawaiian Helicopter",Eurocopter,5
+11-11-2011,"Near Santa Catarina Atoyzingo, MexicoFuerza Aerea Mexicana",Aerospatiale,8
+07-12-2011,"Near Henderson, NevadaSundance Helicopters Inc.",Aerospatiale,5
+26-12-2011,"Green Grove, Florida?",Bell,3
+30-01-2012,"Namoya, CongoTRACEP Congo Aviation",Antonov,3
+15-03-2012,"Near San Juan, Puerto RicoJet One Express",Convair,2
+16-03-2012,"Kabul, AfghanistanMilitary - Turkish Army (NATO)",Sikorsky,12
+02-04-2012,"Tyumen, RussiaUTAir",ATR,33
+20-04-2012,"Islamabad, PakistanBhoja Airlines",Boeing,127
+30-04-2012,"Sabanagrande, ColombiaMilitary -Fuerza Aerea Colombiana",Bell,13
+09-05-2012,"Near Cidahu, IndonesiaSukhoi",Sukhoi,45
+14-05-2012,"Jomsom, NepalAgni Air",Dornier,15
+02-06-2012,"Accra, GhanaAllied Air",Boeing,0
+03-06-2012,"Lagos, NigeriaDana Air",McDonnell,153
+06-06-2012,"Hualla Hualla, Mount Mamarosa, Peru HeliCusco",Sikorsly,14
+11-06-2012,"Near Serov, RussiaIllegal flight",Antonov,13
+21-06-2012,"Jakarta, IndonesiaMilitary - Indonesian Air Force",Fokker,7
+18-08-2012,"Off Masbate Island, PhilippinesAviatour's Fly'n Inc.",PA-34-200,3
+19-08-2012,"Talodi, SudanAlfa Airlines",Antonov,32
+12-09-2012,"Near Palana, RussiaPetropavlovsk-Kamchatsky Air Enteprise",Antonov,10
+28-09-2012,"Kathmandu, NepalSita Air",Dornier,19
+07-10-2012,"Near Omdurman, SudanMilitary - Sudanese Air Force",Antonov,15
+07-10-2012,AntiguaFly Montserrat,Britten-Norman,3
+21-11-2012,"San'a, YemenMilitary - Yemen Air Force",Antonov,10
+30-11-2012,"Near Brazzaville, CongoAero Service",Ilysushin,7
+05-12-2012,"Near Ladysmith, South AfricaMilitary - South African Air Force",Douglas,11
+09-12-2012,"Near Iturbide, MexicoStarwood Management LLC",Learjet,7
+25-12-2012,"Near Shymkent, KazakhstanMilitary - Kazakhstan Border Guards",Antonov,27
+25-12-2012,"Heho, MyanmarAir Bagan",Fokker,1
+29-12-2012,"Moscow, RussiaRed Wings Airlines",Tupolev,5
+02-01-2013,"Near Clear Lake, IowaMed-Trans Corporaion",Bell,3
+04-01-2013,"Off Los Roques, VenezuelaTransaereo 5074",Britten,6
+29-01-2013,"Near Kyzyltu, KazakhstanSCAT Air",Canadair,21
+13-02-2013,"Donetsk, UkraineSouth Airlines",Antonov,5
+04-03-2013,"Goma, CongoCompagnie Africaine d' Aviation (CAA)",Fokker,7
+08-03-2013,"Near Dillingham, AlaskaAce Air Cargo",Beechcraft,2
+13-04-2013,"Denpasar, IndonesiaLion Air",Boeing,0
+29-04-2013,"Bagram Air Base, AfghanistanNational Air Cargo",Boeing,7
+31-05-2013,"Moosonee, OntarioOrnge Air Ambulance",Sikorsky,4
+25-06-2013,"Gaurikund, near Kedarnath, Uttarakhand State, India.Indian Air Force",MI,20
+06-07-2013,"San Francisco, CaliforniaAsiana Airlines",Boeing,3
+07-07-2013,"Soldotna, AlaksaRediske Air",de,10
+09-08-2013,"Mogadishu, SomaliaMilitary - Ethiopian Air Force",Antonov,4
+14-08-2013,"Birmingham, AlabamaUnited Parcel Service",Airbus,2
+03-10-2013,"Lagos, NigeriaAssociated Aviation",Embraer,16
+10-10-2013,"Kudat, MalaysiaMASwings",de,2
+16-10-2013,"Near Pakse, LaosLao Airlines",ATR-72-50RDPL-34233 ,49
+03-11-2013,"Riberalta, BoliviaAerocon",Swearingen,8
+09-11-2013,"Pujungan, Malinau district, BorneoMilitary - Indonesian Army",Mil-,13
+10-11-2013,"Red Lake, Ontario, CanadaBearskin Airlines",Swearingen,5
+17-11-2013,"Near Kazan, RussiaTararstan Airlilnes",Boeing,50
+29-11-2013,Glasgow ScotlandBond Air Services Ltd.,Eurocopter,3
+29-11-2013,"Bwabwata National Park, NambiaMozambique Airline",Embraer,33
+05-12-2013,"Near Cachimbo, BrazilHeringer Taxi Aero",Britten,5
+26-12-2013,"Irkutsk, RussiaIrAvia",Antonov,9
+20-01-2014,Near Petreasa RomaniaScoala Superioara de Aviatie Civla,Britten,2
+11-02-2014,"Near Ain Kercha, AlgeriaMilitary - Algerian Air Force",Lockheed,76
+16-02-2014,"Sandhikhark, NepalNepal Airlines",de,18
+21-02-2014,"Grombalia, TunisiaLibyan Air Cargo",Antonov,11
+08-03-2014,South Indian OceanMalaysia Airlines,Boeing,239
+18-03-2014,"Seattle, WashingtonHelicopters Inc / KOMO TV",Urocopter,2
+19-04-2014,"Ramos Arizpe, MexicoLineas Aereas Comerciales",British,8
+20-04-2014,"Jamijarvi, FinlandSuomen Urheiluilmailijat",Aerocomp,8
+08-05-2014,"Near San Vicente del Caguan, ColombiaAlisansa Colombia",Douglas,6
+17-05-2014,"Xiang Khouang province, LaosLaos Air Force",Antonov,16
+14-06-2014,"Lugansk, UkraineMilitary - Ukraine Air Force",Ilyushin,49
+02-07-2014,"Near Nairobi, KenyaSkyward International Aviation",Fokker,4
+07-07-2014,"Thach That district, VietnamMilitary - Vietnam People's Army Air Force",Mil,18
+17-07-2014,"Hrabove, UkraineMalaysia Airlines",Boeing,298
+23-07-2014,"Magong, TaiwanTransAsia Airways",ATR,48
+24-07-2014,"Aguelhok, MaliAir Algerie",Mc,116
+10-08-2014,"Tehran, IranSepahan Airlines",HESA,39
+30-08-2014,"Tamanraset, AlgeriaUkraine Air Alliance",Antonov,7
+31-08-2014,"Mwanza, TanzaniaSafari Express Cargo",Fokker,3
+20-09-2014,"Near Port Moresby, Papua New GuineaHevlift",de,4
+04-10-2014,"Wichita Falls, TexasAir Evac Lifeteam",Bell,2
+28-12-2014,"Near Uvira, CongoAir Sirin",Antonov,6
+28-12-2014,Java SeaAirAsia,Airbus,162
+18-01-2015,"Near Abu adh Dhuhur Air Base, SyriaSyrian Air Force",Antonov,37
+04-02-2015,"Taipei, TaiwanTransasia",ATR,43
+09-03-2015,"Villa Castelli, ArgentinaPrivate",Both,10
+24-03-2015,"Near Digne-Les-Bains, FranceGermanwings",Airbus,150
+25-06-2015,"Ella Lake, AlaskaPromech Air",de,9
+30-06-2015,"Medan, IndonesiaMilitary - Indonesian Air Force",Lockheed,122
+31-07-2015,"Near Agustin Codazzi, ColombiaMilitary - Colombia Air Force",CASA,11
+12-08-2015,"Ninia, IndonesiaKomala Air",Pacific,1
+16-08-2015,"Tangok mountain, PapuaTrigana Air Service",ATR,54
+05-09-2015,"Off Dakar, Near Dioubel, SenegalSenegalair",Hawker,7
+15-09-2015,"Iliamna East Wind Lake, AlaskaRainbow King Lodge",de,3
+02-10-2015,"Jalalabad, AfghanistanMilitary - U.S. Army",Lockheed,11
+02-10-2015,"Near Masamba, IndonesiaAvistar Mandari",de,10
+31-10-2015,"Near Ilaga, IndonesiaTrigana Air Service",de,4
+31-10-2015,"Near Hasna, EgyptMetrojet",Airbus,224
+04-11-2015,"Juba, South SudanAllied Services Limited",Antonov,41
+21-11-2015,"Fox Glacier, South Valley, New ZealandAlpine Adventures",Aerospatiale,7
+24-11-2015,"Near Igarka, RussiaTuruhan Avia",Mil,15
+08-01-2016,"Akkajaure Lake, Norrbotten, SwedenWest Air Sweden",Canadair,2
+02-02-2016,"Near Mogadishu, SomaliaDaallo Airlines",Airbus,1
+24-02-2016,"Dana, NepalTara Air",de,23
+26-02-2016,"250 miles northwest of Kathmandu, NepalKasthamandap Airlines",PAC,2
+09-03-2016,"Cox's Bazar, BangladeshTrue Aviation Ltd.",Antonov,3
+15-03-2016,"Fatima Pastaza, EcuadorMilitary - Ecuador Army",IAI,22
+19-03-2016,"Rostov-on-Don, RussiaFlydubai",	Boeing,62
+29-03-2016,"Magdelen Islands, Quebec, CanadaMarquise Aviation Corp.",Mitsubishi,7
+04-04-2016,"Near Pigeon Forge, TennesseeSmoky Mountain Helicopters",Bell,5
+13-04-2016,"Kiunga, Papua New GuineaSunbird Aviation",Britten-Norman,12
+29-04-2016,"Sorta, Norway	CHC Helikopter Service",	Eurocopter,13
+19-05-2016,175 miles off the Egyptian coastEgyptAir,Airbus,66
+22-07-2016,"Bay of Bengal, Indian OceanIndian Air Force",Antonov,29
+30-07-2016,"Near Lockhart, TexasHeart of Texas Hot Air Balloon Rides",,16
+05-08-2016,"Dubai, United Arab EmiratesEmirates",Boeing,0
+31-08-2016,"Russian Mission, AlaksaHageland Aviiation",Cessna,5
+24-10-2016,Malta International AirportAE Aviation,Swearingen,5
+28-11-2016,"Near La Union, ColombiaLAMIA Bolivia",Avro,71
+03-12-2016,"Near Tanjung Pinanga, IndonesiaIndonesian Police",M28,13
+07-12-2016,"Near Havlien, PakistanPakistan International Airlines",ATR-42-500AP-BHO,48
+18-12-2016,"Near Wamena, Papua, IndonesiaIndonesian Air Force",,13
+20-12-2016,"Puerto Carreno, ColombiaAerosucre Colombia",Boeing,5
+25-12-2016,"Near Adar, RussiaRussian Air Force",Tupolev,92
+16-01-2017,"Bishkek, KyrgyzstanMy Cargo Airlines (ACT Airlines)",Boeing,4
+21-02-2017,"Melbourne, Victoria, AustraliaAustralian Corporate Jet Centres PTY. LTD",Beechcraft,5
+10-03-2017,"Istanbul, TurkeySwan Aviation",Sikorsky,7
+27-03-2017,"Mautaer, ZimbabweETA Air Charter",Britten-Norman,6
+05-05-2017,"Charleston, West VirginiaAir Cargo Carriers",Shorts,2
+27-05-2017,"Tenzing, NepalSummit Air",Let,2
+07-06-2017,"Off Dawei, MyanmarMilitary - Myanmar Air Force",Shaanxi,122
+28-06-2017,"Mount Gambier, South AustraliaAngel Flight",Socata,3
+10-07-2017,"Near Itta Bena, MississipiUSMC",Lockheed,16
+30-09-2017,"Near Kinshasa, CongoAir Force of the Democratic Republic of the Congo",Antonov,12
+12-10-2017,"Near Cuílo, AngolaGuicango",Embraer,7
+14-10-2017,"Abidjan, Ivory CoastValan International Cargo Charter",Antonov,4
+15-11-2017,"Empakaai, TanzaniaCostal Aviation",Cessna,11
+13-12-2017,"Near Fond-du-Lac, SaskatchewanWest Wind Aviation",ATR42-320C-GWEA,1
+31-12-2017,"Punta Islita, Costa RicaNaure Air",Cessna,12
+29-01-2018,"Zhengchang, Suiyang County, Guizhou ProvincePeople's Liberation Army Air Force",Shaanxi,12
+10-02-2018,"Grand Canyon, ArizonaPapillon",Eurocopter,3
+11-02-2018,"Argunovo, RussiaSaratov Airlines",Antonov,71
+18-02-2018,"Kohangan village, IranIran Aseman Airlines",ATR,66
+06-03-2018,"Latakia, SyriaMilitary - Russian Air Force",Antonov,39
+11-03-2018,"New York, New YorkLiberty Helicopters",Eurocopter,5
+11-03-2018,"81 miles SW o fShahre Kurd, IranMc Aviation",Canadair,11
+12-03-2018,"Kathmandu, NepalUS-Bangla Airlines",de,51
+11-04-2018,"Boufarik AB, AlgeriaMilitary - Algerian Air Force",Ilyushin,257
+17-04-2018,"NW of Philadelphia, PennsylvaniaSouthwest Airlines",Boeing,1
+02-05-2018,"Port Wentworth, GeorgiaMilitary - US Air Force",Lockheed,9
+18-05-2018,"Havana, CubaCubana (leased from Global Air)",Boeing,112
+05-06-2018,"Near Njabini, KenyaFly SAX",Cessna,10
+10-07-2018,"Pretoria, South AfricaRovos Air",Convair,1
+04-08-2018,"Flims, SwitzerlandJu Air",Junkers,20
+17-09-2018,"Near Latakia-Khmeimim Air Base, IranMilitary - Russian Air Force",Ilyushin,15
+28-09-2018,"Chuuk, MicronesiaAir Niugini",Boeing,1
+29-10-2018,"Off Jakarta, IndonesiaLion Air",Boeing,189
+06-11-2018,"Georgetown, GuyanaFly Jamaica Airways",Boeing,1
+14-01-2019,"Karaj, IranSaha Air",Boeing,15
+23-02-2019,"Houston, TexasAtlas Air serving Amazon",Boeing,3
+09-03-2019,"Vereda La Bendicion, ColombiaLaser Aereo Colombia",Douglas,14
+10-03-2019,"Bishoftu, EthiopiaEthiopian Airlines",Boeing,157
+16-04-2019,"Puerto Montt, ChileArchipelagos Service Aereos",Pilatus-Britten,6
+05-05-2019,"Near Monclava, MexicoTVPX Aircraft Solutions",Canadair,13
+05-05-2019,"Moscow, RussiaAeroflot Russian International Airlines",Sukhoi,41
+03-06-2019,"Near Lipo, IndiaMilitary - Indian Air Force",Antonov,13
+30-07-2019,"Rawalpindi, IndiaMilitary - Pakistan Army",Beechcraft,5
+11-09-2019,"Toledo, OhioPrivate",Convair,2
+04-10-2019,"Lviv, UkraineUkraine Air Alliance",Antonov,5
+24-11-2019,"Goma, Democratic Republic of CongoBusy Bee Congo",Dornier,19
+27-12-2019,"Almaty, KazakhstanBek Air",Fokker,12
+02-01-2020,"Geneina, SudanSudanese Air Force",Antonov,18
+08-01-2020,"Near Shahriah, IranUkraine International Airlines",Boeing,176
+05-02-2020,"Istanbul, TurkeyPegasus Airlines",Boeing,3
+29-03-2020,"Manila, PhilippinesLion Air Inc.",IAI,8
+22-05-2020,"Karachi, PakistanPakistan International Airline",Airbus,97
+07-08-2020,"Calicut, IndiaAir India Exppress",Boeing,20
+22-08-2020,"Juba, South SudanSouth West Aviaiton",Antonov,7
+25-09-2020,"Near Chuguev, UkraineMilitary - Ukraine Air Force",Antonov,26
