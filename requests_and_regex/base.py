@@ -1,6 +1,6 @@
 import base64
-client_id = "1c774acbfa6faec3a5cC131X8"
-client_secret = "c1d4fcbfa6faec3a5c0b84aec2f5e98f"
+client_id = "NDCKiwi"
+client_secret = "KiwiDE2022"
 encodedData = base64.b64encode(f'{client_id}:{client_secret}'.encode()).decode()
 authorization_header_string = f"Authorization: Basic {encodedData}"
 

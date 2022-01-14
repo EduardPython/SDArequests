@@ -1,5 +1,4 @@
 # https://data.world/petrsevcik/testproject/workspace/file?agentid=arthur&datasetid=banks&filename=top100banks2017-12-31.xlsx
-import pandas as pd
 import csv
 from itertools import islice
 import requests
