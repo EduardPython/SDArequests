@@ -2,6 +2,7 @@ import random
 
 class Sazka():
 
+    list()
     def sportka(self):
         list_of_rounds = []
         counter = 0
@@ -50,9 +51,9 @@ class Sazka():
         return list(zip(list_of_first_rounds, list_of_second_rounds))
 
 ticket = Sazka()
-#print(ticket.sportka())
+print(ticket.sportka())
 print(ticket.euromiliony())
-#for row in ticket.sportka():
-#    print(row)
-#for one, two in ticket.euromiliony():
-#    print(one, two)
+for row in ticket.sportka():
+    print(row)
+for one, two in ticket.euromiliony():
+    print(one, two)
