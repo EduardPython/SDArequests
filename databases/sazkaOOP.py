@@ -2,11 +2,13 @@ import random
 
 class Sazka():
 
-    list()
+    def __init__(self, number_of_rounds):
+        self.number_of_rounds = number_of_rounds
+
     def sportka(self):
         list_of_rounds = []
         counter = 0
-        while counter < 10:
+        while counter < self.number_of_rounds:
             pick = []
             for i in range(6):
                 x = random.randint(1, 49)
@@ -23,7 +25,7 @@ class Sazka():
 
         list_of_first_rounds = []
         counter = 0
-        while counter < 6:
+        while counter < self.number_of_rounds:
             round_one = []
             for i in range(5):
                 x = random.randint(1, 50)
@@ -37,7 +39,7 @@ class Sazka():
 
         counter = 0
         list_of_second_rounds = []
-        while counter < 6:
+        while counter < self.number_of_rounds:
             round_two = []
             for i in range(2):
                 y = random.randint(1, 10)
@@ -50,10 +52,24 @@ class Sazka():
                 continue
         return list(zip(list_of_first_rounds, list_of_second_rounds))
 
-ticket = Sazka()
-print(ticket.sportka())
-print(ticket.euromiliony())
-for row in ticket.sportka():
-    print(row)
-for one, two in ticket.euromiliony():
-    print(one, two)
+
+    def extra_renta(self):
+        list_of_rounds = []
+        counter = 0
+        while counter < self.number_of_rounds:
+            round = random.sample(range(1, 34), 5)
+            list_of_rounds.append(sorted(round))
+            counter += 1
+        return list_of_rounds
+
+ticket = Sazka(5)
+print(ticket.extra_renta())
+#print(ticket.sportka())
+#print(ticket.euromiliony())
+#for row in ticket.sportka():
+#    print(row)
+#for one, two in ticket.euromiliony():
+#    print(one, two)
+
+#tiket2 = Sazka(8).euromiliony()
+#print(tiket2)
