@@ -1,0 +1,113 @@
+0) smallint, varchar(255), char(15), float, varchar(255), date
+
+1)
+CREATE TABLE `friends` (
+ `first_name` varchar(25) NOT NULL,
+ `last_name` varchar(25) NOT NULL,
+ `phone_num` char(12) DEFAULT NULL,
+ `birthday` date DEFAULT NULL,
+ `age` int(11) DEFAULT NULL
+)
+
+INSERT INTO friends(first_name, last_name, phone_num, birthday, age)
+VALUES('Jim', 'Dandy', '476–111–1122', '977–07–19', 42);
+
+INSERT INTO friends
+VALUES('Jack', 'Daniels', '476–111–1122', '1977–07-09', 32);
+
+INSERT INTO friends(first_name, last_name)
+VALUES('John', 'Snow');
+
+
+CREATE TABLE `countries` (
+ `country` varchar(25) NOT NULL,
+ `region` varchar(25) NOT NULL,
+ `population` int(12) DEFAULT NULL,
+ `area` int(12) DEFAULT NULL,
+ `literacy` float(11) DEFAULT NULL
+);
+
+INSERT INTO countries
+VALUES('Cesko', 'Europe', 10000000, 78000, 99.9),
+('Rusko', 'Europe', 10000000, 78000, 99.9),
+('Francie', 'Europe', 10000000, 78000, 99.9),
+;
+
+2)
+SELECT DISTINCT Country FROM Customers;
+
+SELECT * FROM Customers
+WHERE Country != 'Germany' AND Country != 'Mexico';
+
+alt
+
+SELECT * FROM Customers
+WHERE Country NOT IN ('Germany', 'Mexico');
+
+SELECT ContactName, Address FROM Customers
+WHERE CustomerID > 9 AND CustomerID < 31;
+
+SELECT * FROM Customers
+WHERE ContactName LIKE 'Maria%';
+
+SELECT * FROM Customers
+WHERE City IN ('Berlin', 'London', 'Paris', 'Madrid');
+
+Cviceni nedele:
+1) SELECT Country, Capital FROM [zeme]
+2) SELECT * FROM
+   (SELECT * FROM zeme ORDER BY Area DESC LIMIT 10)
+ORDER BY Population DESC ;
+
+3) SELECT DISTINCT CurrencyName FROM zeme
+
+4) SELECT COUNT (DISTINCT CurrencyName) FROM zeme
+
+5) SELECT * FROM zeme
+WHERE CurrencyName = 'Dollar'
+ORDER BY Population DESC
+
+6) SELECT AVG(Area) as AverageArea FROM zeme
+WHERE Continent IN ('SA', 'NA')
+
+7) SELECT AVG(Population) AS AveragePopulationAfrica FROM [zeme]
+WHERE Continent = 'AF'
+
+8) SELECT * FROM zeme
+WHERE LEFT(ISO3, 2) = ISO
+
+9) UPDATE zeme SET [ref_id] = SUBSTRING([full_id], 1, 3)
+
+SELECT * FROM [zeme]
+WHERE Domain LIKE '.e_'
+
+10) SELECT * FROM zeme
+WHERE CurrencyCode LIKE '%D'
+ORDER BY Area DESC
+
+11)
+UPDATE zeme SET Country = 'Evropska Unie'
+WHERE Continent = 'EU'
+
+12)
+DELETE FROM zeme WHERE Continent = 'AS';
+SELECT COUNT(Area) AS CountriesWithoutAsia FROM zeme;
+
+
+Next
+SELECT * FROM Customers
+WHERE Country IN (SELECT Country FROM zeme WHERE Continent = 'NA');
+
+SELECT Customers.CustomerName, zeme.Country
+FROM zeme
+INNER JOIN Customers ON Customers.Country=zeme.Country;
+
+SELECT Categories.CategoryName, COUNT(Products.CategoryID) FROM Products
+LEFT JOIN Categories ON Products.CategoryID = Categories.CategoryID
+GROUP BY Products.CategoryID;
+
+SELECT CurrencyName, COUNT(CurrencyName) AS Pocet
+FROM zeme
+GROUP BY CurrencyName
+HAVING COUNT(CurrencyName) > 5
+ORDER BY COUNT(CurrencyName) DESC;
